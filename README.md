@@ -7,3 +7,5 @@ file:///C:/Users/erend/OneDrive/Masa%C3%BCst%C3%BC/github.html      Github Html 
 file:///C:/Users/erend/OneDrive/Masa%C3%BCst%C3%BC/github.html      Github Html Ödev 2
 
 file:///C:/Users/erend/OneDrive/Masa%C3%BCst%C3%BC/mozaikpasta.html     Github Html Ödev 3
+
+file:///C:/Users/erend/OneDrive/Masa%C3%BCst%C3%BC/CSS2.html     Github CSS Ödev 1
